@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[](https://codesandbox.io/s/intro-gif-xpmj8i)
+[<img src="https://raw.githubusercontent.com/Eyob-S/Eyob-S/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
