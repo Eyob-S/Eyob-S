@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+alt="👋 Hi there! I'm (Eyob(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Eyob(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
 -->
 
 
-[<img src="https://raw.githubusercontent.com/Eyob-S/Eyob-S/master/intro.gif" alt="👋 Hi there! I'm (Eyob(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Eyob(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/Eyob-S/Eyob-S/master/intro.gif"] 
